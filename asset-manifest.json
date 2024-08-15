@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Sparrow-news/static/css/main.f855e6bc.css",
-    "main.js": "/Sparrow-news/static/js/main.12748097.js",
-    "static/media/loader.gif": "/Sparrow-news/static/media/loader.d3fbaf2b81fd92c49692.gif",
-    "index.html": "/Sparrow-news/index.html",
-    "main.f855e6bc.css.map": "/Sparrow-news/static/css/main.f855e6bc.css.map",
-    "main.12748097.js.map": "/Sparrow-news/static/js/main.12748097.js.map"
+    "main.css": "/Sparrow-News/static/css/main.f855e6bc.css",
+    "main.js": "/Sparrow-News/static/js/main.f0bbc09e.js",
+    "static/media/loader.gif": "/Sparrow-News/static/media/loader.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/Sparrow-News/index.html",
+    "main.f855e6bc.css.map": "/Sparrow-News/static/css/main.f855e6bc.css.map",
+    "main.f0bbc09e.js.map": "/Sparrow-News/static/js/main.f0bbc09e.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.12748097.js"
+    "static/js/main.f0bbc09e.js"
   ]
 }
